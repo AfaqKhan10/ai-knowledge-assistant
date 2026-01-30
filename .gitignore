@@ -1,0 +1,26 @@
+# Python venv
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node modules (frontend)
+frontend/node_modules/
+frontend/.env
+
+# Large ML models & binaries
+*.pth
+*.pt
+*.bin
+*.dll  # ← yeh torch_cpu.dll ignore karega
+
+# Environment variables / secrets
+.env
+backend/.env
+frontend/.env

@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+faiss-cpu
+pydantic
+pydantic-settings
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+email-validator
+python-multipart
+langchain-huggingface
+langchain-groq
+sentence-transformers
+PyPDF2
+faiss-cpu
