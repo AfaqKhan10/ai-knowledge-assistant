@@ -4,7 +4,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { Eye, EyeOff } from 'lucide-react';
 
 const Signup = () => {
-  const [firstName, setFirstName] = useState('');  // ← New state for First Name
+  const [firstName, setFirstName] = useState('');  
   const [lastName, setLastName] = useState('');   // ← New state for Last Name
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
