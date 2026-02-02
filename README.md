@@ -65,3 +65,35 @@ backend/
 │   └── rag/             
 ├── uploads/             
 └── .env
+
+
+
+
+
+# AI Knowledge Assistant Frontend
+
+A modern React frontend for the AI-powered document chat app. Users can login/signup, upload documents, and chat with them using AI in a sleek dark neon UI.
+
+## Features
+- Responsive dark neon theme (glassmorphism cards, gradient buttons, neon glow effects)
+- User signup/login/logout with JWT authentication
+- Dashboard with resume last chat button
+- Document upload (PDF/TXT) with auto-redirect to chat
+- Real-time chat with streaming replies (typewriter effect)
+- Chat history loading & resume
+- Sticky navbar with active page indicator
+- Show/hide password toggle
+
+## Tech Stack
+- **Framework**: React.js
+- **Styling**: Tailwind CSS
+- **Routing**: React Router
+- **API Calls**: Axios
+- **Icons**: lucide-react
+- **State Management**: React Context (AuthContext)
+
+## Installation & Run (Local)
+
+1. Go to frontend folder:
+   ```bash
+   cd frontend
