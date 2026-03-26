@@ -25,7 +25,7 @@ Answers are generated only from uploaded content with the help of local FAISS ve
 
 1. Go to backend folder:
    ```bash
-   cd ai-knowledge-assistant/backend
+   
 
 
 Activate virtual env
