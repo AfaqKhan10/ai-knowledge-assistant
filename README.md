@@ -93,6 +93,4 @@ A modern React frontend for the AI-powered document chat app. Users can login/si
 1. Go to frontend folder:
    ```bash
    cd frontend
-
-   Activate virtual env
-:Bash.\venv\Scripts\activate 
+ 
