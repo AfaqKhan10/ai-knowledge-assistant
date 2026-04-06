@@ -26,8 +26,6 @@ Answers are generated only from uploaded content with the help of local FAISS ve
 1. Go to backend folder:
    ```bash
    
-
-
 Activate virtual env
 :Bash.\venv\Scripts\activate   # Windows
 
@@ -95,3 +93,6 @@ A modern React frontend for the AI-powered document chat app. Users can login/si
 1. Go to frontend folder:
    ```bash
    cd frontend
+
+   Activate virtual env
+:Bash.\venv\Scripts\activate 
