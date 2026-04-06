@@ -68,8 +68,6 @@ backend/
 
 
 
-
-
 # AI Knowledge Assistant Frontend
 
 A modern React frontend for the AI-powered document chat app. Users can login/signup, upload documents, and chat with them using AI in a sleek dark neon UI.
