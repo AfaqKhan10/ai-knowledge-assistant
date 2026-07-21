@@ -90,5 +90,5 @@ A modern React frontend for the AI-powered document chat app. Users can login/si
 ## Installation & Run (Local)
 
 1. Go to frontend folder:
-   ```bash
+   ``bash
    cd frontend
