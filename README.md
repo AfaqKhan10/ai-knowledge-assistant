@@ -87,6 +87,7 @@ A modern React frontend for the AI-powered document chat app. Users can login/si
 - **State Management**: React Context (AuthContext)
 
 
+
 ## Installation & Run (Local)
 
 1. Go to frontend folder:
