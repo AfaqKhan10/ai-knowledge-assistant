@@ -11,6 +11,7 @@ Answers are generated only from uploaded content with the help of local FAISS ve
 - Ask questions in chat – AI answers strictly from your documents
 - Chat history saved per user
 - Simple dashboard with stats (documents, chats, messages)
+- 
 
 ## Tech Stack
 - **Framework**: FastAPI
