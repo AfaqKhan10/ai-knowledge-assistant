@@ -15,6 +15,7 @@ Answers are generated only from uploaded content with the help of local FAISS ve
 
 ## Tech Stack
 - **Framework**: FastAPI
+- 
 - **Database**: PostgreSQL (for document & chat storage)
 - **Vector Store**: FAISS (local, fast & lightweight)
 - **LLM**: Groq (llama-3.1-8b-instant)
