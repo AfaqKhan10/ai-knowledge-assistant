@@ -38,7 +38,6 @@ Bashpip install fastapi uvicorn sqlalchemy psycopg2-binary python-dotenv langcha
 Create PostgreSQL database:
 Name: Ai_knowledge_Assistant
 
-
 Create .env file in backend folder:
 textDATABASE_URL=postgresql+psycopg2://postgres:YOUR_PASSWORD@localhost:5432/Ai_knowledge_Assistant
 JWT_SECRET_KEY=supersecretkey123aaffaaqqkkhhaann
