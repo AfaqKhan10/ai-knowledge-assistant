@@ -3,6 +3,7 @@
 A modern AI-powered backend that lets users upload PDF/TXT documents and ask intelligent questions about them using **Retrieval-Augmented Generation (RAG)**.  
 Answers are generated only from uploaded content with the help of local FAISS vector search + fast Groq LLM.
 
+
 ## Features
 - Secure user signup & login with JWT
 - Upload PDF or TXT files (text extraction + chunking)
