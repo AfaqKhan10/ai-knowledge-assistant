@@ -12,7 +12,6 @@ Answers are generated only from uploaded content with the help of local FAISS ve
 - Chat history saved per user
 - Simple dashboard with stats (documents, chats, messages)
 - 
-
 ## Tech Stack
 - **Framework**: FastAPI
 - 
