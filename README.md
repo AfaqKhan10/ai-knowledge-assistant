@@ -30,7 +30,6 @@ Answers are generated only from uploaded content with the help of local FAISS ve
 Activate virtual env
 :Bash.\venv\Scripts\activate   # Windows
 
-
 Install packages:
 Bashpip install fastapi uvicorn sqlalchemy psycopg2-binary python-dotenv langchain-groq PyPDF2 pydantic jose[cryptography] passlib[bcrypt] python-multipart faiss-cpu langchain-huggingface
 
