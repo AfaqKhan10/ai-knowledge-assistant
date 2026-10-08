@@ -4,7 +4,7 @@ A modern AI-powered backend that lets users upload PDF/TXT documents and ask int
 Answers are generated only from uploaded content with the help of local FAISS vector search + fast Groq LLM.
 
 ## Features
-- Secure user signup & login with JWT
+- Secure user signup & login with JWT Auth
 - Upload PDF or TXT files (text extraction + chunking)
 - Local vector embeddings (sentence-transformers/all-MiniLM-L6-v2)
 - Fast similarity search using FAISS
