@@ -41,7 +41,6 @@ textDATABASE_URL=postgresql+psycopg2://postgres:YOUR_PASSWORD@localhost:5432/Ai_
 JWT_SECRET_KEY=supersecretkey123aaffaaqqkkhhaann
 GROQ_API_KEY=your_groq_key_here
 
-
 Start the server:
 Bashuvicorn app.main:app --reload
 
