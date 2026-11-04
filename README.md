@@ -5,6 +5,7 @@ Answers are generated only from uploaded content with the help of local FAISS ve
 
 ## Features
 - Secure user signup & login with JWT Auth
+- 
 - Upload PDF or TXT files (text extraction + chunking)
 - Local vector embeddings (sentence-transformers/all-MiniLM-L6-v2)
 - Fast similarity search using FAISS
