@@ -47,7 +47,8 @@ Bashuvicorn app.main:app --reload
 Swagger docs:
 http://127.0.0.1:8000/docs
 
-backend/
+
+backend/ 
 ├── app/
 │   ├── main.py
 │   ├── config.py
